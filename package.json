@@ -1,0 +1,26 @@
+{
+  "name": "node-starter-kit",
+  "version": "1.0.0",
+  "description": "Scaffold for npm projects",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austineady/node-starter-kit.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Austin Eady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austineady/node-starter-kit/issues"
+  },
+  "homepage": "https://github.com/austineady/node-starter-kit#readme"
+}
